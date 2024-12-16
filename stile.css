@@ -1,0 +1,112 @@
+.general {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+}
+
+#el_div {
+  background: linear-gradient(to right, blue, gray, black);
+  height: 300px;
+  margin: 0;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  font-weight: bolder;
+}
+#la_suma {
+  /* Gradiente de verde a naranja */
+  background: linear-gradient(to right, green, orange);
+  height: 300px;
+  margin: 0;
+
+  /* Estilos adicionales para el contenido */
+  color: white;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-weight: bolder;
+}
+#nombre {
+  /* Gradiente de verde a naranja */
+  background: linear-gradient(to right, gray, pink);
+  height: 300px;
+  margin: 0;
+
+  /* Estilos adicionales para el contenido */
+  color: white;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-weight: bolder;
+}
+#numeros_ingresados{
+     /* Gradiente de verde a naranja */
+  background: linear-gradient(to right,black, pink);
+  height: 300px;
+  margin: 0;
+
+  /* Estilos adicionales para el contenido */
+  color: white;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-weight: bolder;
+
+}
+#comparador{
+    background: linear-gradient(to right,white,red);
+    height: 300px;
+    margin: 0;
+  
+    /* Estilos adicionales para el contenido */
+    color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+}
+#comparador_2{
+    background: linear-gradient(to right,grey,red);
+    height: 300px;
+    margin: 0;
+  
+    /* Estilos adicionales para el contenido */
+    color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+}
+#divisible{
+    background: linear-gradient(to right,pink,gold);
+    height: 300px;
+    margin: 0;
+  
+    
+    color: gray;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, sans-serif;
+font-weight: bolder;
+}
